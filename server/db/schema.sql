@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS whkanban_db;
+CREATE DATABASE whkanban_db;
